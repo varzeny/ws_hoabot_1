@@ -39,7 +39,8 @@
 
 
 ## 구조
-![설명텍스트](./document/tb3.png)
+![설명텍스트](./document/gb1.png)
+![설명텍스트](./document/gb2.png)
 
 
 
