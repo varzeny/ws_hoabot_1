@@ -6,15 +6,15 @@
 * 기간 : 2023-10-6 ~ 2023-11-19
 * 인원 : 1명
 * 결과
-    * 라이다 SW구현
+    * 라이다 SW 재구현
 
         [![라이다SW구현](https://img.youtube.com/vi/565lbogwvE4/0.jpg)](https://www.youtube.com/watch?v=565lbogwvE4)
 
-    * 카메라 SW구현
+    * 카메라 SW 재구현
 
         [![카메라SW구현](https://img.youtube.com/vi/fbqwnfzzZ5I/0.jpg)](https://www.youtube.com/watch?v=fbqwnfzzZ5I)
 
-    * 모터제어 SW구현
+    * 모터제어 SW 재구현
 
         [![모터제어SW구현](https://img.youtube.com/vi/2awNTUzo2Ag/0.jpg)](https://www.youtube.com/watch?v=2awNTUzo2Ag)
 
